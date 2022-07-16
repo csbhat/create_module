@@ -1,0 +1,13 @@
+{
+  "name": "create_module",
+  "version": "1.0.0",
+  "description": "Creating A Simple  Module",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node dev",
+    "start": "node server.js"
+  },
+  "author": "Chittaranjan Bhat",
+  "license": "ISC"
+}
